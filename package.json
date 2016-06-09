@@ -1,0 +1,14 @@
+{
+  "name": "forge_slack_server",
+  "version": "1.0.0",
+  "description": "A simple response server for Slack Forge Bot",
+  "author": "Greg Rashkevitch <greg.rashkevitch@autodesk.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.10.0"
+  }
+}
