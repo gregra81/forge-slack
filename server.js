@@ -1,4 +1,4 @@
-// Provide environment through console i.e. PORT=3002 node server.js
+// Provide environment through console i.e. PORT=3001 node server.js
 var port = process.env.PORT || 3001,
     config = require('./config.js');
 
